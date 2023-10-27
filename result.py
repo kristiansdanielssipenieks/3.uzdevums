@@ -41,11 +41,6 @@ try:
     print(calculate_difference(file_path))
 except Exception as e:
     print(0)
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> db283b634cbe7995deefa929d999218f30590ceb
 
 
